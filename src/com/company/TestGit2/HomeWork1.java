@@ -6,8 +6,8 @@ public class HomeWork1 {
 
     }
 
-    public void workdff {
-        System.out.println("");
+    public void fraD () {
+        System.out.println("Привет");
     }
 }
 
