@@ -9,5 +9,9 @@ public class HomeWork1 {
     public void fraD () {
         System.out.println("Привет");
     }
+
+    public void fraD2 () {
+        System.out.println("Тут ветка 3");
+    }
 }
 
